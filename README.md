@@ -1,7 +1,9 @@
 # Todo List App
 
-## Nama
-Edward
+## Profil
+**Nama**: Edward Putra Wisnu  
+**Kelas**: RJ23C  
+**NIM**: 2390343034
 
 ## Judul Project
 Todo List App - Aplikasi Manajemen Tugas Sederhana
