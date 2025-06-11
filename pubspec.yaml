@@ -72,6 +72,7 @@ flutter:
     - assets/animations/Animation - 1749566281602.json
     - assets/animations/Animation - 1749596630710.json
     - assets/img/checklist_4334927.png
+    - assets/images/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
